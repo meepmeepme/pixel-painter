@@ -1,0 +1,60 @@
+body{
+	background-color: grey;
+	color: white;
+	font-family: verdana;	
+	font-size: 40px;
+}
+.canvas{
+	background-color: white;
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+}
+.palette{
+	display: inline-block;
+}
+#selectedColorName{
+	border: solid;
+	height: 20px;
+	width: 20px;
+}
+
+#red{
+	background-color: red;
+	border: solid;
+	height: 20px;
+	width: 20px;
+}
+#orange{
+	background-color: orange;
+	border: solid;
+	height: 20px;
+	width: 20px;
+}
+#yellow{
+	background-color: yellow;
+	border: solid;
+	height: 20px;
+	width: 20px;
+}
+#green{
+	background-color: 	green;
+	border: solid;
+	height: 20px;
+	width: 20px;
+}
+#blue{
+	background-color: blue;
+	border: solid;
+	height: 20px;
+	width: 20px;
+}
+#purple{
+	background-color: purple;
+	border: solid;
+	height: 20px;
+	width: 20px;
+}
+#canvas1{
+background-color: green;
+}
