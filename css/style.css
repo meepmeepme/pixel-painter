@@ -9,6 +9,7 @@ body{
 	height: 20px;
 	width: 20px;
 	display: inline-block;
+	margin: none;
 }
 .palette{
 	display: inline-block;
@@ -54,7 +55,4 @@ body{
 	border: solid;
 	height: 20px;
 	width: 20px;
-}
-#canvas1{
-background-color: green;
 }
